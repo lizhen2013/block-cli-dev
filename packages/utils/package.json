@@ -1,6 +1,6 @@
 {
   "name": "@block-cli-dev/utils",
-  "version": "0.0.5",
+  "version": "0.0.0",
   "description": "> TODO: description",
   "author": "alexli_iherb <zhen.li@iherb.com>",
   "homepage": "",
@@ -16,5 +16,9 @@
   "scripts": {
     "test": "node ./__tests__/utils.test.js"
   },
-  "gitHead": "d45f58989d46745fab6f65d8a2e72fdc1d5aecd4"
+  "gitHead": "efa9c13e9f7117f6f55d5dcaebaa6a43acd37c01",
+  "publishConfig": {
+    "access": "public"
+  }
 }
+
