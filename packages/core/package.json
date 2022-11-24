@@ -1,0 +1,23 @@
+{
+  "name": "@block-cli-dev/core",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "alexli_iherb <zhen.li@iherb.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/core.test.js"
+  },
+  "dependencies": {
+    "@block-cli-dev/utils": "^0.0.0"
+  }
+}
+
