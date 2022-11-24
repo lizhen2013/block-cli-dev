@@ -3,5 +3,7 @@
 module.exports = core;
 
 function core() {
-    return "Hello from core";
+  //TODO
+  return 'Hello from core';
 }
+
