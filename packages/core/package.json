@@ -1,6 +1,6 @@
 {
   "name": "@block-cli-dev/core",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "> TODO: description",
   "author": "alexli_iherb <zhen.li@iherb.com>",
   "homepage": "",
@@ -20,8 +20,7 @@
     "test": "node ./__tests__/core.test.js"
   },
   "dependencies": {
-    "@block-cli-dev/utils": "^0.0.4"
+    "@block-cli-dev/utils": "^0.0.5"
   },
   "gitHead": "d45f58989d46745fab6f65d8a2e72fdc1d5aecd4"
 }
-
