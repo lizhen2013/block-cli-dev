@@ -1,6 +1,6 @@
 {
   "name": "@block-cli-dev/core",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "author": "alexli_iherb <zhen.li@iherb.com>",
   "homepage": "",
@@ -27,4 +27,3 @@
     "access": "public"
   }
 }
-
